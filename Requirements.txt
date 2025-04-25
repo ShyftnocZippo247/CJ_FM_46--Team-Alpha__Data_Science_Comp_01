@@ -1,0 +1,8 @@
+numpy
+json
+pandas
+faiss-cpu
+pypdf
+google-generativeai
+python-dotenv
+langchain
